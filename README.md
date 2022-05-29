@@ -25,7 +25,7 @@ np your_post_title # np "post_name"
 # deploy locally. copy `./post` to `./docs/` and check or modify something automatically.
 dp 
 
-# deploy on github just need git push all changes to remote mpblog repo.
+# deploy on github just need git push all changes to remote repo.
 ```
 
 ## GitHub Page Setting
